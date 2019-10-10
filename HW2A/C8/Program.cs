@@ -28,7 +28,7 @@ namespace C8
             {
                 prev = prev * 2; // prev + prev
                 //if ((prev).ToString().Length <= 2)
-                if (prev > 0 && prev <= 100)
+                if (prev <= 100)
                     WriteLine(prev);
                 num++;
             }

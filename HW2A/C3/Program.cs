@@ -14,7 +14,7 @@ namespace C3
             int num = 1;
             while (num < 100)
             {
-                if (num > 0 && num % 10 == 0)
+                if (num % 10 == 0)
                 {
                     WriteLine(num);
                 }

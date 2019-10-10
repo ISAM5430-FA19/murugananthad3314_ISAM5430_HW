@@ -14,7 +14,7 @@ namespace C2
             int num = 1;
             while(num <= 10)
             {
-                if (num > 0 && num % 2 == 0)
+                if (num % 2 == 0)
                 {
                     WriteLine(num);
                 }

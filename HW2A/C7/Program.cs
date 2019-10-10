@@ -11,11 +11,18 @@ namespace C7
     {
         static void Main(string[] args)
         {
-            int c = 97;
+            /*int c = 97;
             while (c < 123)
             {
                 Write((char)c);
                 c++;
+            }*/
+
+            char a = 'a';
+            while(a <= 'z')
+            {
+                Write(a);
+                a++;
             }
             ReadLine();
         }
