@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISAM5430.FA19.HW06", "ISAM5430.FA19.HW06\ISAM5430.FA19.HW06.csproj", "{F573B1AD-F0CE-46CE-9846-AA7354A5B830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISAM5430.FA19.HW06.Tests", "ISAM5430.FA19.HW06.Tests\ISAM5430.FA19.HW06.Tests.csproj", "{1B2AFADB-0931-4A95-A13C-D074B086B21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F573B1AD-F0CE-46CE-9846-AA7354A5B830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F573B1AD-F0CE-46CE-9846-AA7354A5B830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F573B1AD-F0CE-46CE-9846-AA7354A5B830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F573B1AD-F0CE-46CE-9846-AA7354A5B830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2AFADB-0931-4A95-A13C-D074B086B21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2AFADB-0931-4A95-A13C-D074B086B21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2AFADB-0931-4A95-A13C-D074B086B21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2AFADB-0931-4A95-A13C-D074B086B21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998B49A4-243D-4936-9576-C7C1812BB10A}
+	EndGlobalSection
+EndGlobal
